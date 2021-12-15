@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KernelSharp", "KernelSharp.csproj", "{F0D68ECC-DAED-4E7E-B880-B01039269FD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0D68ECC-DAED-4E7E-B880-B01039269FD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0D68ECC-DAED-4E7E-B880-B01039269FD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AE68CFE-EF9C-42D3-9D9D-2DCD85C7F5BD}
+	EndGlobalSection
+EndGlobal
