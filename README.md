@@ -22,3 +22,4 @@ After including WDK.cs and the Runtime folder in your project you will be able t
 
  - No support for variadic arguments
  - No managed multibyte character string type, conversion is required
+ - The native compiler misplaces globally declared strings wrongly, causing a bluescreen when referenced
