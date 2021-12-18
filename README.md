@@ -2,6 +2,8 @@
 This is an example of how to use [NativeAOT](https://github.com/dotnet/runtimelab/tree/feature/NativeAOT) to compile C# code to a Windows Kernel Mode driver.
 This repository contains parts of https://github.com/ZeroLP/ZeroKernel.
 
+If you want to see an example of a full memory R/W Driver using this, check out my repo https://github.com/VollRagm/KernelBypassSharp. 
+
 # Compiling
 Open the build.bat and fix the file paths.
 ILCPATH is located at `C:\Users\username\.nuget\packages\runtime.win-x64.microsoft.dotnet.ilcompiler\7.0.0-alpha.1.21430.2`, ntoskrnl.lib is located in the WDK install path.
